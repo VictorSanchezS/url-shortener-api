@@ -21,3 +21,5 @@ def get_db():
         yield db
     finally:
         db.close()
+        
+# Esta es una linea de comentario para probar los estados de git        
